@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IlSardev
+- 👋 Hi, I’m @IlSarDev
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding
